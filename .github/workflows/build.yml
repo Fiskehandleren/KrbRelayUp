@@ -24,4 +24,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: KrbRelayUp
-          path: KrbRelayUp\KrbRelayUp\bin\Release\KrbRelayUp.exe
+          path: KrbRelayUp\bin\Release\KrbRelayUp.exe
